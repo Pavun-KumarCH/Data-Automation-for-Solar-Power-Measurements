@@ -59,7 +59,9 @@ The project follows the **CRISP-ML(Q)** methodology, guiding the phases from bus
 
 You can see a live deployment of the project and its functionality below:
 
-![Project Deployment](path/to/your/deployment/image.jpg)
+[![Project Deployment](https://github.com/Pavun-KumarCH/Data-Automation-for-Solar-Power-Measurements/blob/main/assets/ezgif.com-video-to-gif-converter.gif)](https://github.com/Pavun-KumarCH/Data-Automation-for-Solar-Power-Measurements/blob/main/assets/ezgif.com-video-to-gif-converter.mp4?raw=true)
+
+> Click the image above to watch the project deployment video.
 
 
 ## Contributing
