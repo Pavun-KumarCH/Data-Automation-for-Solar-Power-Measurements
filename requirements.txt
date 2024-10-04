@@ -1,0 +1,6 @@
+google-cloud-vision
+openpyxl
+pandas
+streamlit
+ipykernel
+dotenv
